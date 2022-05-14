@@ -1,0 +1,10 @@
+'Positive check',500,1000,9
+'Max number in range', 100,9801,90
+'Lower limit',100,100,1
+'Upper limit',9801,9801,1
+'Upper boundary for two positive',9604,9801,2
+'Upper boundary for one positive',9801,10000,1
+'Upper boundary negative',9900,10000,0
+'Invalid range negative',-100,0,0
+'Invalid zeroes',0,0,0
+'Invalid range above zero',0,99,0
